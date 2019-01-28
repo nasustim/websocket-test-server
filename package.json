@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nasustim/websocket-test-server#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "socket.io": "^2.2.0"
   }
